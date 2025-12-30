@@ -23,7 +23,7 @@ setup(
     url="https://github.com/chrisstampar/fx-sdk",
     project_urls={
         "Homepage": "https://github.com/chrisstampar/fx-sdk",
-        "Documentation": "https://fx-sdk.readthedocs.io/",  # Update after Read the Docs setup
+        "Documentation": "https://fx-sdk.readthedocs.io/en/latest/",
         "Source": "https://github.com/chrisstampar/fx-sdk",
         "Bug Tracker": "https://github.com/chrisstampar/fx-sdk/issues",
     },
