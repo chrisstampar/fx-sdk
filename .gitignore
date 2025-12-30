@@ -46,3 +46,6 @@ Thumbs.db
 *.bak
 *.log
 
+# Internal documentation (may contain sensitive patterns)
+docs/PYPI_UPLOAD.md
+
