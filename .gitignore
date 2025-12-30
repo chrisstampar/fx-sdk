@@ -70,3 +70,6 @@ test_convex_positions.py
 test_package_v0.3.0.py
 test_pypi_install.py
 
+# Internal scripts
+scripts/
+
