@@ -46,6 +46,18 @@ Thumbs.db
 *.bak
 *.log
 
-# Internal documentation (may contain sensitive patterns)
+# Internal documentation (may contain sensitive patterns or internal notes)
 docs/PYPI_UPLOAD.md
+RELEASE_CHECKLIST.md
+SDK_DEPLOYMENT_GUIDE.md
+QUICK_START.md
+PROJECT_STRUCTURE.md
+docs/PRE_UPLOAD_CHECKLIST.md
+docs/DEPLOYMENT_CHECKLIST.md
+docs/PYPI_VERIFICATION_CHECKLIST.md
+docs/PYPI_VERIFICATION_GUIDE.md
+docs/SET_ENV_VARS.md
+docs/CONVEX_INTEGRATION_TODO.md
+docs/CURVE_INTEGRATION_PLAN.md
+docs/PENDLE_INTEGRATION_PLAN.md
 
