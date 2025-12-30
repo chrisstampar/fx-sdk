@@ -9,14 +9,14 @@
 - **Staked Token**: fxBASE (`0x65C9A641afCEB9C0E6034e558A319488FA0FA3be`)
 - **Base Token**: fxUSD (`0x085780639cc2cacd35e474e71f4d000e2405d8f6`)
 - **Convex Pool ID**: 37
-- **Vault Example**: `0x1234567890123456789012345678901234567890` (user-specific)
+- **Vault Example**: `0x1234567890123456789012345678901234567890`
 
 ### fETH Stability Pool (Pool ID 1)
 - **F(x) Stability Pool**: `0xB87A8332dFb1C76Bb22477dCfEdDeB69865cA9f9`
 - **Staked Token**: fETH (`0x53805A76E1f5ebbFE7115F16f9c87C2f7e633726`)
 - **Base Token**: stETH (`0xae7ab96520de3a18e5e111b5eaab095312d7fe84`)
 - **Convex Pool ID**: 1
-- **Vault Example**: `0x83bddc646956C31a081b8B67cb035046fC5f24Bb` (user-specific)
+- **Vault Example**: `0x83bddc646956C31a081b8B67cb035046fC5f24Bb`
 
 ## Analysis
 

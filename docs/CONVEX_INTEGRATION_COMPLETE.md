@@ -25,7 +25,7 @@ See [CONVEX_POOL_COMPARISON.md](./CONVEX_POOL_COMPARISON.md) for details on how 
 - **User-Specific**: Each user has their own unique vault address
 - **Created via Factory**: Vaults are created using the factory contract
 - **Required Parameter**: Users must provide their vault address for all operations
-- **Example**: `0x1234567890123456789012345678901234567890` (user-specific, not published)
+- **Example**: `0x1234567890123456789012345678901234567890`
 
 ### Factory Contract
 - **Address**: `0xAffe966B27ba3E4Ebb8A0eC124C7b7019CC762f8`
