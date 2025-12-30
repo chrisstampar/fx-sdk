@@ -61,3 +61,9 @@ docs/CONVEX_INTEGRATION_TODO.md
 docs/CURVE_INTEGRATION_PLAN.md
 docs/PENDLE_INTEGRATION_PLAN.md
 
+# Internal test files
+test_*.py
+test_convex_positions.py
+test_package_v0.3.0.py
+test_pypi_install.py
+
